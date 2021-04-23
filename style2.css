@@ -1,0 +1,11 @@
+.div { 
+    border-style: groove;
+    width: 300vw;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 20px;
+
+}
+ *{
+     background-color: #74b9ff;
+ }
